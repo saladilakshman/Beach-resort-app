@@ -1,3 +1,3 @@
 # Beach-resort-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-kefkhw)
+[website URL⚡️](https://react-kefkhw.stackblitz.io)
