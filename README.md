@@ -1,15 +1,28 @@
-# Beach-resort-app⛵
+## Beach Resort App
+#### This is a web application for a beach resort, allowing users to explore available rooms, amenities, and nearby attractions. It features a contact page with Google Maps integration and email functionality for inquiries.
 
-[ click here to view live website ⚡️](https://react-kefkhw.stackblitz.io)
+### Features
+* **Room Listings** : Display available rooms with detailed information such as price, amenities, and availability.
+* **Amenities Showcase** : Highlight resort amenities such as pools, restaurants, spa services, etc.
+* **Nearby Attractions** : Provide information about nearby attractions, beaches, restaurants, and entertainment options.
+* **Contact Page** : Include a contact form for users to inquire about bookings or ask questions.
+* **Google Maps Integration**: Display a map showing the resort's location and nearby attractions.
+* **Email Functionality** : Allow users to send inquiries via email directly from the website.
 
-# `Project Description`
+***
+###  Libraries and Tools used in this project
+1. **Frontend** : HTML, CSS, JavaScript
+2. **Framework/Libraries** : React (optional), Bootstrap (optional), etc.
+3. **Contact Form** : HTML forms for basic setup, or use a library like Formik for more advanced forms.
+4. **Google Maps Integration** : Google Maps JavaScript API
+5. **Email Functionality** : Emailjs for sending emails from client side.
 
-A Single page application beach resort website built using reactjs where the end user can reserve the seat and can view the various facilites available.
+ ___
+## Usage
+##### To rund this project locally, follow these steps.
+1. Clone this repository.
+2. Install dependencies using **npm install** or **Yarn Install**.
+3. Start the server using **npm start** or **Yarn start**.
+4. Open your browser and navigate to http://localhost:port (replace port with the port number configured in your environment).
 
-`Features and concepts used :`
 
-1.Email Feature: User can enter their name and email that sends an email and for this EMAILJS-a client side library for sending mails is used.
-
-2.React-reveal:This library used to produce better UI expereince to the user.React-Router: This library  mainly useful for bulding Single Page Applications(SPA) for        navigating within a single page without reloading the document.
-
-3.Google maps:Used to provide the live location of beach resort with iframe tag that used for embedding external contents into our webpage.
